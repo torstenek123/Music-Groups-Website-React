@@ -1,0 +1,3 @@
+Open workspace folder
+Type npm start in terminal
+Browse around!
