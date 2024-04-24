@@ -1,3 +1,4 @@
 Open workspace folder
+Open 00-uppgift-reactjs in integrated terminal
 Type npm start in terminal
 Browse around!
